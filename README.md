@@ -1,7 +1,7 @@
-additive
+Additive Manufacturing (AM) Sample Shape Files
 ========
 
-additive manufacturing files
+Samples of Additive Manufacturing products. 
 
-collected from following places:
+### Reference 
 https://github.com/eweinhoffer/Bike-Accessories
